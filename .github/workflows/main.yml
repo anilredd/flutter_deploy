@@ -2,7 +2,7 @@ name: Flutter App deployment
 
 on:
   push:
-    branches: ["develop"]
+    branches: ["main"]
 
   pull_request:
     branches: ["main"]
